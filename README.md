@@ -1,16 +1,103 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Anuj%20Dalvi!%20👋&fontSize=50&fontAlignY=35&animation=twinkling&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Researcher&descAlignY=55&descSize=20" width="100%" />
+</div>
 
-<!--
-**AnujDalvi82/AnujDalvi82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Building Intelligent Systems to Solve Real-World Problems</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/AnujDalvi82">
+    <img src="https://komarev.com/ghpvc/?username=AnujDalvi82&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+I am a passionate **Machine Learning Engineer & Data Scientist** dedicated to developing robust, production-ready AI models. My expertise spans across computer vision, time-series forecasting, and natural language processing, with a strong focus on bridging the gap between theoretical data science and practical industry applications.
+
+- 🔬 **Current Focus:** Deep Learning (LSTM, YOLOv8), Predictive Maintenance, and Medical Diagnostics.
+- 💻 **Tech Stack:** Python, PyTorch, Scikit-Learn, Pandas, FastAPI, Gradio, Docker.
+- 🚀 **Philosophy:** Code should not just be accurate—it should be scalable, maintainable, and deployed to production.
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,pandas,fastapi,docker,git,github,bash,linux,html,css,js&perline=7" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">✈️ NASA Predictive Maintenance</h3>
+      <div align="center">
+        <a href="https://github.com/AnujDalvi82/Time-series-implementation-NASA">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnujDalvi82&repo=Time-series-implementation-NASA&theme=dracula&border_color=00000000" width="100%" />
+        </a>
+      </div>
+      <p align="center"><b>Tech:</b> PyTorch, LSTM, FastAPI, Docker</p>
+      <p>A production-ready deep learning dashboard utilizing Long Short-Term Memory (LSTM) networks to predict Remaining Useful Life (RUL) of turbofan engines using NASA CMAPSS telemetry.</p>
+      <p align="center"><a href="https://huggingface.co/spaces/anujjj321/CMAPSS_Time_Series_evalutation"><b>[View Live Dashboard]</b></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔬 One Health MDR Analysis</h3>
+      <div align="center">
+        <a href="https://github.com/AnujDalvi82/One-Health-Multi-Drug-Resistance-MDR-Analysis">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnujDalvi82&repo=One-Health-Multi-Drug-Resistance-MDR-Analysis&theme=dracula&border_color=00000000" width="100%" />
+        </a>
+      </div>
+      <p align="center"><b>Tech:</b> Scikit-Learn, Random Forest, Gradio</p>
+      <p>A machine learning triage model bridging data science and clinical microbiology to predict invisible Multi-Drug Resistant E. coli infections from raw patient medical history.</p>
+      <p align="center"><a href="https://huggingface.co/spaces/anujjj321/One-Health-MDR"><b>[View Live Dashboard]</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🩸 Malaria Cell Detection</h3>
+      <div align="center">
+        <a href="https://github.com/AnujDalvi82/Malaria-Detection">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnujDalvi82&repo=Malaria-Detection&theme=dracula&border_color=00000000" width="100%" />
+        </a>
+      </div>
+      <p align="center"><b>Tech:</b> Computer Vision, YOLOv8</p>
+      <p>A state-of-the-art object detection pipeline designed to rapidly identify and classify Malaria-infected cells directly from microscopic blood smear imagery.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔍 ContextLens</h3>
+      <div align="center">
+        <a href="https://github.com/AnujDalvi82/ContextLens">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnujDalvi82&repo=ContextLens&theme=dracula&border_color=00000000" width="100%" />
+        </a>
+      </div>
+      <p align="center"><b>Tech:</b> JavaScript, Chrome Extension API</p>
+      <p>An intelligent browser extension utilizing advanced DOM parsing to provide instant, contextual AI-driven insights for highlighted text and phrases directly on any web page.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnujDalvi82&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujDalvi82&layout=compact&theme=dracula&hide_border=true" height="195" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujDalvi82&theme=dracula&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
+</div>
