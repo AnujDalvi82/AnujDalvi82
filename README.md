@@ -10,6 +10,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/anuj-dalvi-7a2b6b2b8">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</p>
+
+
 ---
 
 ### 👨‍💻 About Me
