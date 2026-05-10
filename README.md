@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Anuj%20Dalvi!%20👋&fontSize=50&fontAlignY=35&animation=twinkling&desc=Machine%20Learning%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Researcher&descAlignY=55&descSize=20" width="100%" />
 </div>
 
-<h3 align="center">Building Intelligent Systems to Solve Real-World Problems</h3>
+<h3 align="center">Architecting Intelligent Systems to Solve Complex Real-World Problems</h3>
 
 <p align="center">
   <a href="https://github.com/AnujDalvi82">
@@ -14,23 +14,26 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Machine Learning Engineer & Data Scientist** dedicated to developing robust, production-ready AI models. My expertise spans across computer vision, time-series forecasting, and natural language processing, with a strong focus on bridging the gap between theoretical data science and practical industry applications.
+I am a deeply passionate **Machine Learning Engineer & Data Scientist** dedicated to developing robust, production-ready AI pipelines. My work bridges the gap between theoretical data science and highly specialized industry applications—from optimizing Apple Silicon (MPS) memory bottlenecks for Computer Vision models to engineering massive multidimensional OLAP data cubes for statistical analysis.
 
-- 🔬 **Current Focus:** Deep Learning (LSTM, YOLOv8), Predictive Maintenance, and Medical Diagnostics.
-- 💻 **Tech Stack:** Python, PyTorch, Scikit-Learn, Pandas, FastAPI, Gradio, Docker.
-- 🚀 **Philosophy:** Code should not just be accurate—it should be scalable, maintainable, and deployed to production.
+Currently, I am actively **preparing to publish advanced research papers** focusing on the intersection of deep learning and crucial real-world domains like Medical Diagnostics (One Health) and Aerospace Prognostics.
+
+- 🔬 **Current Focus:** Deep Learning architectures (LSTM, YOLOv8), Predictive Maintenance, Healthcare AI, and Academic Research.
+- 💻 **Tech Stack:** Python, R, PyTorch, Scikit-Learn, Pandas, FastAPI, Gradio, Docker.
+- ⌨️ **Workflow:** I am an absolute fanatic for terminal-based workflows. I write my code entirely in **Neovim** and rely heavily on native Bash tooling for maximum efficiency and speed!
+- 🚀 **Philosophy:** Code should not just be accurate—it should be scalable, mathematically rigorous, and elegantly deployed.
 
 ---
 
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,pandas,fastapi,docker,git,github,bash,linux,html,css,js&perline=7" />
+  <img src="https://skillicons.dev/icons?i=neovim,linux,bash,python,r,pytorch,tensorflow,scikitlearn,pandas,fastapi,docker,git,github,html,css,js&perline=8" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Engineering Projects
 
 <table align="center">
   <tr>
@@ -42,7 +45,7 @@ I am a passionate **Machine Learning Engineer & Data Scientist** dedicated to de
         </a>
       </div>
       <p align="center"><b>Tech:</b> PyTorch, LSTM, FastAPI, Docker</p>
-      <p>A production-ready deep learning dashboard utilizing Long Short-Term Memory (LSTM) networks to predict Remaining Useful Life (RUL) of turbofan engines using NASA CMAPSS telemetry.</p>
+      <p>A production-ready deep learning dashboard utilizing Long Short-Term Memory (LSTM) networks to predict Remaining Useful Life (RUL) of turbofan engines using massive NASA CMAPSS telemetry datasets.</p>
       <p align="center"><a href="https://huggingface.co/spaces/anujjj321/CMAPSS_Time_Series_evalutation"><b>[View Live Dashboard]</b></a></p>
     </td>
     <td width="50%">
@@ -53,7 +56,7 @@ I am a passionate **Machine Learning Engineer & Data Scientist** dedicated to de
         </a>
       </div>
       <p align="center"><b>Tech:</b> Scikit-Learn, Random Forest, Gradio</p>
-      <p>A machine learning triage model bridging data science and clinical microbiology to predict invisible Multi-Drug Resistant E. coli infections from raw patient medical history.</p>
+      <p>An advanced Machine Learning triage model bridging data science and clinical microbiology to predict invisible Multi-Drug Resistant E. coli infections from raw patient medical history.</p>
       <p align="center"><a href="https://huggingface.co/spaces/anujjj321/One-Health-MDR"><b>[View Live Dashboard]</b></a></p>
     </td>
   </tr>
@@ -65,18 +68,18 @@ I am a passionate **Machine Learning Engineer & Data Scientist** dedicated to de
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnujDalvi82&repo=Malaria-Detection&theme=dracula&border_color=00000000" width="100%" />
         </a>
       </div>
-      <p align="center"><b>Tech:</b> Computer Vision, YOLOv8</p>
-      <p>A state-of-the-art object detection pipeline designed to rapidly identify and classify Malaria-infected cells directly from microscopic blood smear imagery.</p>
+      <p align="center"><b>Tech:</b> Computer Vision, YOLOv8, MPS Optimization</p>
+      <p>A state-of-the-art object detection pipeline designed to rapidly identify and classify Malaria-infected cells directly from microscopic blood smear imagery, featuring custom Apple Silicon memory optimizations.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🔍 ContextLens</h3>
+      <h3 align="center">🔍 ContextLens RAG System</h3>
       <div align="center">
         <a href="https://github.com/AnujDalvi82/ContextLens">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnujDalvi82&repo=ContextLens&theme=dracula&border_color=00000000" width="100%" />
         </a>
       </div>
       <p align="center"><b>Tech:</b> JavaScript, Chrome Extension API</p>
-      <p>An intelligent browser extension utilizing advanced DOM parsing to provide instant, contextual AI-driven insights for highlighted text and phrases directly on any web page.</p>
+      <p>An intelligent browser extension utilizing advanced DOM parsing and hover-based triggers to provide instant, contextual AI-driven insights directly on any web page.</p>
     </td>
   </tr>
 </table>
@@ -99,5 +102,5 @@ I am a passionate **Machine Learning Engineer & Data Scientist** dedicated to de
 ---
 
 <div align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>Let's connect and push the boundaries of AI research!</i>
 </div>
