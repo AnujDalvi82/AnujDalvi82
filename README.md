@@ -93,7 +93,7 @@ Currently, I am actively **preparing to publish advanced research papers** focus
   A state-of-the-art object detection pipeline designed to rapidly identify and classify Malaria-infected cells directly from microscopic blood smear imagery, featuring custom Apple Silicon memory optimizations.
 </p>
 <p>
-  🔗 <a href="https://github.com/AnujDalvi82/Malaria-Detection"><b>Source Code</b></a>
+  🔗 <a href="https://huggingface.co/spaces/anujjj321/malaria_classifier_api"><b>View Live Dashboard</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 <a href="https://github.com/AnujDalvi82/Malaria-Detection"><b>Source Code</b></a>
 </p>
 
 <br>
